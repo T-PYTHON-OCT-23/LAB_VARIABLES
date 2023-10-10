@@ -3,7 +3,7 @@ favourateTeam = "Hilal"
 
 #Define a variable “x“ has an integer value and a variable “y” has a float value.
 x =1
-y=True
+y=2.0
 
 
 #Assign One Value to Multiple Variables (choose random names & values).
