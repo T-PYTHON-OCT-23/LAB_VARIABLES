@@ -1,4 +1,4 @@
-favourite = "Real Madrid"
+favouriteClub = "Real Madrid"
 x=6
 y=5.2
 a,b,c=0
